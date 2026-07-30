@@ -21,12 +21,9 @@ Based on a revision of the official Spanish layout
 
 //  Keyboard - special keys LATAM
 
-#define KEY_MASCULINE_ORDINAL    (136+0x35)   // º
-#define KEY_INVERTED_EXCLAMATION (136+0x2e)   // ¡
-#define KEY_GRAVE                (136+0x2f)   // ` (grave)
+#define KEY_INVERTED_QUESTION    (136+0x2e)   // ¿
+#define KEY_ACUTE                (136+0x2f)   // dead acute accent
 #define KEY_N_TILDE              (136+0x33)   // Ñ
-#define KEY_ACUTE                (136+0x34)   // ´ (acento agudo)
-// #define KEY_C_CEDILLA         (136+0x31)   // Ç → It's not used on LATAM
 
 #endif
 #endif
