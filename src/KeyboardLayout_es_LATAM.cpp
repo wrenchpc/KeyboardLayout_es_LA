@@ -74,7 +74,7 @@ extern const uint8_t KeyboardLayout_es_LATAM[128] PROGMEM =
 	0x27|SHIFT,    // =
 	0x32|SHIFT,    // >
 	0x2d|SHIFT,    // ?
-	0x1f|ALT_GR,   // @
+	0x14|ALT_GR,   // @
 	0x04|SHIFT,    // A
 	0x05|SHIFT,    // B
 	0x06|SHIFT,    // C
